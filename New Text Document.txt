@@ -1,1 +1,4 @@
 Testing file for new file add on git
+ git add .
+ git commit -m "New text file added "
+ git push
